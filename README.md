@@ -1,5 +1,5 @@
 # Git_Course
 for basel git hup
+print(hi basel)
 
-
-##the secind update
+##the second update
